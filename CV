@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My CV & Portfolio – Anson Poulose</title>
 
   <!-- Open Graph Meta Tags for social media preview -->
   <meta property="og:title" content="CV & Portfolio – Anson Poulose" />
   <meta property="og:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
-  <meta property="og:image" content="https://https://img.kwcdn.com/product/fancy/2405a305-4483-418d-9be4-e3db1d73a679.jpg?imageView2/2/w/500/q/60/format/webp" />
+  <meta property="og:image" content="https://img.kwcdn.com/product/fancy/2405a305-4483-418d-9be4-e3db1d73a679.jpg?imageView2/2/w/500/q/60/format/webp" />
   <meta property="og:url" content="https://ansonaikkarathpoulose.github.io/Anson/" />
   <meta property="og:type" content="website" />
 
@@ -15,40 +16,23 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="CV & Portfolio – Anson Poulose" />
   <meta name="twitter:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
-  <meta name="twitter:image" content="https://https://img.kwcdn.com/product/fancy/2405a305-4483-418d-9be4-e3db1d73a679.jpg?imageView2/2/w/500/q/60/format/webp" />
+  <meta name="twitter:image" content="https://img.kwcdn.com/product/fancy/2405a305-4483-418d-9be4-e3db1d73a679.jpg?imageView2/2/w/500/q/60/format/webp" />
 
+  <!-- Styles -->
   <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
       padding: 40px;
       background-color: #f9f9f9;
+      margin: 0;
     }
     img {
       max-width: 90%;
       border-radius: 10px;
       margin-top: 20px;
+      height: auto;
     }
     .message {
       margin-top: 30px;
-      font-size: 18px;
-      line-height: 1.6;
-      color: #333;
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Preview Image -->
-  <img src="https://img.kwcdn.com/product/fancy/2405a305-4483-418d-9be4-e3db1d73a679.jpg?imageView2/2/w/500/q/60/format/webp" alt="Preview Image">
-
-  <!-- Message -->
-  <div class="message">
-    <p>
-      I saw your LinkedIn post. Due to ATS, I couldn’t reach properly.<br>
-      Could you please check my CV and portfolio?
-    </p>
-  </div>
-
-</body>
-</html>
+      font-si
