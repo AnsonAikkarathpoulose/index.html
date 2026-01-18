@@ -7,8 +7,8 @@ index.html
   <!-- LINK PREVIEW SETTINGS -->
   <meta property="og:title" content="CV & Portfolio – Anson Poulose" />
   <meta property="og:description" content="I saw your LinkedIn post. Due to ATS, I couldn’t reach properly. Could you please check my CV and portfolio?" />
-  <meta property="og:image" content="https://AnsonAikkarathpoulose.github.io/preview.jpg" />
-  <meta property="og:url" content="https://AnsonAikkarathpoulose.github.io/" />
+  <meta property="og:image" content="https://Github-preview-test.png/preview.jpg" />
+  <meta property="og:url" content="https://AGithub-preview-test.png/" />
 
   <style>
     body {
